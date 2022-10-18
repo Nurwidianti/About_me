@@ -44,3 +44,13 @@ Having knowledge to create web automation using Selenium Java,  and Katalon. API
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 🔗Let's connect!
+<p>
+    <a href="https://www.linkedin.com/in/nur-widianti-075221118/" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+### 📝Contact me
+<p>
+    <a href="mailto: nurwidianti35@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
+</p>
+
