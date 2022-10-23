@@ -52,5 +52,9 @@ Having knowledge to create web automation using Selenium Java,  and Katalon. API
 ### 📝Contact me
 <p>
     <a href="mailto: nurwidianti35@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
-</p>
+</p
+
+## My test cases examples
+  - [Test cases for App KAI access"](https://docs.google.com/document/d/1m21mDc4MsMyvlwFM3dHuyI-rDxGbZb2_PP82mOH-xJo/edit?usp=sharing)
+  - [Test cases - Guru99 Banking Project]()
 
