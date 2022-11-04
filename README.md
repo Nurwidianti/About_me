@@ -55,6 +55,6 @@ Having knowledge to create web automation using Selenium Java,  and Katalon. API
 </p
 
 ## My test cases examples
-  - [Test cases for App KAI access"](https://docs.google.com/document/d/1m21mDc4MsMyvlwFM3dHuyI-rDxGbZb2_PP82mOH-xJo/edit?usp=sharing)
-  - [Test cases - Guru99 Banking Project]()
+  - [Test cases for App KAI access](https://docs.google.com/document/d/1m21mDc4MsMyvlwFM3dHuyI-rDxGbZb2_PP82mOH-xJo/edit?usp=sharing)
+  - [Test cases - Web Secondhand(FGA Digitalent kominfo x Binar Academy)](https://docs.google.com/spreadsheets/d/1LPiwC7fH455ZnHjbaqmqtt3OoQ7EorJu5fZK6WU13zg/edit?usp=sharing)
 
