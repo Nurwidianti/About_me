@@ -26,7 +26,7 @@ Having knowledge to create web automation using Selenium Java,  and Katalon. API
 ## 📈Stats
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working as Admin in Refactory</br>
+    - 🔭 I’m currently working as Software Tester in PT Educa Sisfomedia Indonesia</br>
     - 📫 How to reach me: <a href="mailto:nurwidianti35@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: She/Her </br>
     - ⚡ Fun fact: ... </br>
