@@ -40,8 +40,9 @@ Experienced in creating and executing test cases, identifying and documenting bu
 ![Jira](https://img.shields.io/badge/-jira-181717?style=for-the-badge&logo=jira)
 ![Gitlab](https://img.shields.io/badge/-gitlab-181717?style=for-the-badge&logo=gitlab)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<!--![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)-->
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)
 
 ## 🔗Let's connect!
 <p>
